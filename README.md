@@ -38,7 +38,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - Explain what singleton methods are, what is _Eigenclass_ in Ruby?
 - Describe Ruby method lookup path
 - Describe available Ruby callbacks and how can we use them in practice?
-- Why `Enumerable` is so useful? Elaborate on methods like `.each`, `.map`, `.inject`, `.reject`, _et cetera_ (also shortcut notation e.g. `.reduce(:+)`)
+- Why `Enumerable` is so useful? Elaborate on methods like `#each`, `#map`, `#inject`, `#reject`, _et cetera_ (also shortcut notation e.g. `#reduce(:+)`)
 - Why would you use `BigDecimal` over `float`?
 - When do you prefer to use `fetch` over `[]` on `Hash` (and other way around) and why?
 - What's the difference between `local`, `@instance`, `@@class`, and `$global` variables? Why and where would you use specific type?
@@ -84,7 +84,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - Explain _eager loading_
 - How can you eager load associated objects?
 - What is difference between `render` and `redirect`?
-- What is difference between `save!` and `save`? (Elaborate on general difference between AR methods with and without a bang `!`)
+- What is difference between `#save!` and `#save`? (Elaborate on general difference between AR methods with and without a bang `!`)
 - What is difference between `form_for` and `form_tag`?
 - What is the purpose of `environment.rb` and `application.rb` files?
 - What is `request.xhr`?
