@@ -15,8 +15,8 @@ There is a reason why there are no answers here — you as an interviewee should
 - What does it mean that _"everything in Ruby is an object"_?
 - What is a `Hash`? How efficient is reading/writing/iterating over one?
 - What is a `block`? Write a method that takes a `block` as an argument
-- What is the difference between a `lambda`, a `block` and a `proc`?
 - What about _closures_ in Ruby? What are they?
+- What is the difference between a `lambda`, a `block` and a `proc`?
 - Explain what `a ||= b` means
 - What is **memoization**? Why and when would you use it?
 - Have you heard the term **PORO**? Do you know what it is?
@@ -28,13 +28,13 @@ There is a reason why there are no answers here — you as an interviewee should
 - Why do some methods end with a bang `!` and others with question marks `?`, what are they called and what do they do?
 - Go through Basic OOP primitives like _encapsulation_, _abstraction_, _polymorphism_ and _inheritance_
 - Talk about **SOLID** principle
+- What are **mixins**, how do they work, and how would you use them? What are some advantages of using them and what are some potential problems? Give examples to support your answers
 - What's the difference between `extend`, `prepend`, and `include`?
 - Describe access modifiers and how they are used within the ruby language (`private`, `public`, `protected`)
 - How would you declare and use a _constructor_ in Ruby?
 - How would you create _getter_ and _setter_ methods in Ruby?
 - What is a `Class`, what is an `Object` and why we need `Module`?
 - Does Ruby support _multiple inheritance_?
-- What are **mixins**, how do they work, and how would you use them? What are some advantages of using them and what are some potential problems? Give examples to support your answers
 - Explain what singleton methods are, what is _Eigenclass_ in Ruby?
 - Describe Ruby method lookup path
 - Describe available Ruby callbacks and how can we use them in practice?
