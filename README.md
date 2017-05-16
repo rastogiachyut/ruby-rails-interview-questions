@@ -91,6 +91,8 @@ There is a reason why there are no answers here — you as an interviewee should
 - How can you list all routes for a Rails application?
 - Give an example of nested routes usage
 - What is _observer_ in Rails?
+- What is _duck typing_?
+- Explain what Rails engines are? Provide examples of commonly used engines
 - What deployment tools do you use?
 - Why do some people say _"Rails can't scale"_?
 - When is Rails a good choice for a project?
