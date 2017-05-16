@@ -24,7 +24,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - What's the difference between the `&` and `&&` operators?
 - What's the difference between the `and` and `&&` operators? Why use one over the other?
 - What is **meta-programming**, what methods of **meta-programming** does Ruby support, and when/why would you use it in a project?
-- What does the `lazy` method do to enumerators and why is that useful?
+- What does the `#lazy` method do to enumerators and why is that useful?
 - Why do some methods end with a bang `!` and others with question marks `?`, what are they called and what do they do?
 - Go through Basic OOP primitives like _encapsulation_, _abstraction_, _polymorphism_ and _inheritance_
 - Talk about **SOLID** principle
