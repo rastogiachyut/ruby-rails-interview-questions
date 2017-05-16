@@ -132,4 +132,4 @@ Topics below require general Computer Science knowledge that is not tightly coup
 
 # Contributing
 
-Contributions are welcome. If you would like to correct an error or add new items to the checklist, feel free to create an issue and/or a PR. If you are interested in contributing regularly, drop me a line at the above e-mail to become a collaborator.
+Contributions are welcome. If you would like to correct an error or add new items to the checklist, feel free to create an issue and/or a PR. If you are interested in contributing regularly, [drop me a line](https://dyjak.me/contact/) to become a collaborator.
