@@ -25,24 +25,21 @@ Uncommon(Encountered but not explored or forgotten)
 - What is a `block`? Write a method that takes a `block` as an argument
 - Is it bad to rescue `Exception`? Why?
 - What's the difference between the `&` and `&&` operators?
-
-
-Exampled(Need code)
 - Describe Ruby method lookup path
 - Go through Basic OOP primitives like _encapsulation_, _abstraction_, _polymorphism_ and _inheritance_
 - Describe multiple ways to define an _instance method_ in Ruby; now do the similar for _class methods_
 - What does it mean that _"everything in Ruby is an object"_?
-- What does the `#lazy` method do to enumerators and why is that useful?
 - What's the difference between `extend`, `prepend`, and `include`?
 - What is a `Class`, what is an `Object` and why we need `Module`?
 - Does Ruby support _multiple inheritance_?
 - Explain what singleton methods are, what is _Eigenclass_ in Ruby?
-- When do you prefer to use `fetch` over `[]` on `Hash` (and other way around) and why?
-- What's the difference between `local`, `@instance`, `@@class`, and `$global` variables? Why and where would you use specific type?
 - How can you implement method overloading?
+- What's the difference between `local`, `@instance`, `@@class`, and `$global` variables? Why and where would you use specific type?
 
 
-Complex(Need code and explanation)
+Never Heard(Need code and explanation)
+- When do you prefer to use `fetch` over `[]` on `Hash` (and other way around) and why?
+- What does the `#lazy` method do to enumerators and why is that useful?
 - How can you call the _base class method_ from inside of its _overriden method_?
 - Describe available Ruby callbacks and how can we use them in practice?
 - What about _closures_ in Ruby? What are they?
