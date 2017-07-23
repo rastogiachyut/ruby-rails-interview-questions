@@ -16,7 +16,7 @@ Simple(Common and easy)
 - How would you create _getter_ and _setter_ methods in Ruby?
 
 
-Uncommon(Encountered but not explored or forgotten)
+Uncommon(Encountered and explored but forgotten)
 - What does `self` mean when used in a class?
 - What are `#method_missing` and `#send`? Why are they useful?
 - What are the various Ruby runtimes, and how are they different?
@@ -37,7 +37,7 @@ Uncommon(Encountered but not explored or forgotten)
 - What's the difference between `local`, `@instance`, `@@class`, and `$global` variables? Why and where would you use specific type?
 
 
-Never Heard(Need code and explanation)
+Never Explored(Never gotten around to Exploring)
 - When do you prefer to use `fetch` over `[]` on `Hash` (and other way around) and why?
 - What does the `#lazy` method do to enumerators and why is that useful?
 - How can you call the _base class method_ from inside of its _overriden method_?
